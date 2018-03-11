@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-11 15:59:43</sys_created_on>
+        <sys_id>f19a7a9d4f3c13003d328deba310c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_164913_salesconn_salesconnect.x_164913_salesconn.user</sys_name>
+        <sys_package display_value="SalesConnect" source="x_164913_salesconn">659ab61d4f3c13003d328deba310c78e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SalesConnect">659ab61d4f3c13003d328deba310c78e</sys_scope>
+        <sys_security_acl display_value="x_164913_salesconn_salesconnect">7d9a7a9d4f3c13003d328deba310c75e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f19a7a9d4f3c13003d328deba310c761</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-11 15:59:43</sys_updated_on>
+        <sys_user_role display_value="x_164913_salesconn.user" name="x_164913_salesconn.user">359a3a9d4f3c13003d328deba310c7fd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="SalesConnect">799a3a9d4f3c13003d328deba310c7fa</menu>
+        <name>SalesConnect</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_164913_salesconn</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_164913_salesconn</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-11 15:59:42</sys_created_on>
+        <sys_id>659ab61d4f3c13003d328deba310c78e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-11 15:59:42</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_164913_salesconn.user" name="x_164913_salesconn.user">359a3a9d4f3c13003d328deba310c7fd</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
